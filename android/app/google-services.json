@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "700204301792",
+    "project_id": "smbtgl-notify",
+    "storage_bucket": "smbtgl-notify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700204301792:android:0a9cbe0ac0569d95937f85",
+        "android_client_info": {
+          "package_name": "com.mopin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700204301792-gu18tscdnktttn5jacqmjor4d51fvoqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF2CNV8zTPqFZukUiQWjR4tXE4xouLpso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700204301792-gu18tscdnktttn5jacqmjor4d51fvoqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
